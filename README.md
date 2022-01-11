@@ -6,7 +6,7 @@ Scaling this principle up to allow identification of multiple species of flower 
 
 **To run:**
 
-1.	Download the script in this repository 
+1.	Go to the script 'CNN_Flowers_SwBio.ipynb' in this repository, and open using Google Colab. Alternatively, download the file and then upload to Google Colab Manually: https://colab.research.google.com/
 
 2.	The code for accessing and downloading the training and test dataset is provided in the script, however if you wish to also download it to your computer, it is available from this link: https://www.tensorflow.org/datasets/catalog/tf_flowers
 
